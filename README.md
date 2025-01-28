@@ -1,2 +1,1 @@
 # lunarvim-config
-# lunarvim-config
